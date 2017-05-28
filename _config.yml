@@ -86,4 +86,3 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-midnight
-future: true
