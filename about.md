@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+As our name would indicate, nil.fyi offers absolutely nothing in terms of educational value, intellectual intrigue or spiritual enlightenment.  Much like life, there is no deeper meaning; all content is precisely as vapid as is appears on the surface.  We apologize for the inconvenience.  
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+NIL.FYI is a "collective" of "experts" with "ideas" about "things".  
 
-### Contact me
+### Contact Us
 
-[email@domain.com](mailto:email@domain.com)
+If the above was not convincing enough and you'd still like to contact us, feel free to send a concise plain-text e-mail to [guru@nil.fyi](mailto:guru@nil.fyi).  
